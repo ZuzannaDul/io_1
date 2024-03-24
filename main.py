@@ -12,3 +12,8 @@ wysokosc=5
 
 pole_trojkata = 0.5*bok_d*wysokosc
 print(pole_trojkata)
+
+import math
+promien = 5
+pole_kola = math.pi*promien*promien
+print(pole_kola)
